@@ -14,5 +14,5 @@ The Iris flower dataset is a classic dataset introduced by the British statistic
 The data set consists of 50 samples from each of three species of Iris <br>
 🔺Iris setosa<br>
 🔺Iris virginica<br>
-🔺Iris versicolor 
+🔺Iris versicolor <br>
 Four features were measured from each sample,the length and the width of the sepals and petals, in centimeters.
